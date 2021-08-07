@@ -15,3 +15,13 @@
    <img align="center" alt="Carlos-WordPress" height="30" width="40" src="https://img.icons8.com/nolan/64/wordpress.png"/>
    <img height="110em" align="right" alt="Carlos_foda" src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif">
 </div>
+
+##
+ <div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-roberto-conceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
