@@ -1,4 +1,11 @@
-# Carlos-Roberto
+# Olá, eu sou Carlos-Roberto
+Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden.
+
+Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares.
+
+Ultimamente tenho reforçado meus conhecimentos em Lógica de Programação e Python, assuntos que me fazem querer estar em constante aprendizado. Fora isso, também estou aprimorando meus conhecimentos sobre boas práticas de desenvolvimento de sites em HTML, CSS e JavaScript.
+
+Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
 
  <div>
   <a href="https://github.com/carlosrjhoe">
