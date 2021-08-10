@@ -6,8 +6,8 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
 
  <div>
   <a href="https://github.com/carlosrjhoe">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=carlosrjhoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrjhoe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosrjhoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrjhoe&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ##
@@ -17,7 +17,7 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
    <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Carlos-WordPress" height="30" width="40" src="https://img.icons8.com/nolan/64/wordpress.png"/>
-   <img height="110em" align="right" alt="Carlos_foda" src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif">
+   <img height="140em" align="right" alt="Carlos_foda" src="https://media.giphy.com/media/3oKIP9hfEsvPHxfIk0/giphy.gif">
 </div>
 
 ##
