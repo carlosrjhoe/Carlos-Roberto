@@ -1,6 +1,6 @@
 # Olá, eu sou Carlos-Roberto
 
-Ultimamente tenho reforçado meus conhecimentos em Lógica de Programação, Python e Java, assuntos que me fazem querer estar em constante aprendizado. Fora isso, também estou aprimorando meus conhecimentos sobre boas práticas de desenvolvimento de sites em HTML, CSS e JavaScript.
+Ultimamente tenho reforçado meus conhecimentos em Lógica de Programação, Python, Java e metodologia ágil, assuntos que me fazem querer estar em constante aprendizado. Fora isso, também estou aprimorando meus conhecimentos sobre boas práticas de desenvolvimento de sites em HTML, CSS e JavaScript.
 
 Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
 
