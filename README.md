@@ -20,7 +20,7 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
  
  ##
  
- <div>
+ <div align="center">
   <a href="https://github.com/carlosrjhoe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosrjhoe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrjhoe&layout=compact&langs_count=7&theme=dracula"/>
