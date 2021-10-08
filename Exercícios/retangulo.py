@@ -3,15 +3,17 @@ from math import sqrt
 base = float(input('Base do retangulo: '))
 altura = float(input('Altura do retangulo: '))
 
-def area(base, altura):
-    return base * altura
+class retangulo():
 
-def perimetro(base, altura):
-    return 2 * (base + altura)
-    
-# FALTA CALCULAR DIAGONAL
-def diagonal(base, altura):
-    return 
+    def area(base, altura):
+        return base * altura
 
-print(f'\nAREA = {area(base, altura):.4f}')
-print(f'PERIMETRO = {perimetro(base, altura):.4f}')
+    def perimetro(base, altura):
+        return 2 * (base + altura)
+
+    def diagonal(base, altura):
+        return sqrt(base * base + altura * altura)
+
+print(f'\nAREA = {retangulo.area(base, altura):.4f}')
+print(f'PERIMETRO = {retangulo.perimetro(base, altura):.4f}')
+print(f'DIAGONAL = {retangulo.diagonal(base, altura):.4f}')
