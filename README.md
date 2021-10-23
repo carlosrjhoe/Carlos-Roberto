@@ -12,7 +12,6 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
    <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Carlos-WordPress" height="30" width="40" src="https://img.icons8.com/nolan/64/wordpress.png"/>
 
   <img align="center" alt="Carlos-scrum" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/sprint-iteration.png"/>
   <img align="center" alt="Carlos-git" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
