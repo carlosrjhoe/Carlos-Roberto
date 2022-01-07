@@ -1,6 +1,4 @@
-# Exercício 7 - Usando a função filter(), encontre os valores que são comuns às duas listas abaixo.
+# Exercício 6 - Considerando o range de valores abaixo, use a função filter() para retornar apenas os valores negativos.
 
-a = [1,2,3,5,7,9]
-b = [2,3,5,6,7,8]
-
-print (list(filter(lambda x: x in a, b)))   # VAI RETORNAR OS NUMEROS SEMELHANTES ENTRE AS DUAS LISTAS
+range(-5, 5)
+print(list(filter((lambda x: x < 0), range(-5,5)))) # ME RETORNA OS VALORES NEGATIVOS TENTRO DO RANGE

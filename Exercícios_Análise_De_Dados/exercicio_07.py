@@ -1,7 +1,6 @@
-# Exercício 8 - Considere o código abaixo. Obtenha o mesmo resultado usando o pacote time. 
-# Não conhece o pacote time? Pesquise!
+# Exercício 7 - Usando a função filter(), encontre os valores que são comuns às duas listas abaixo.
 
-import datetime
-print (datetime.datetime.now().strftime("%d/%m/%Y %H:%M"))
-import time
-print (time.strftime("%d/%m/%Y %H:%M"))
+a = [1,2,3,5,7,9]
+b = [2,3,5,6,7,8]
+
+print (list(filter(lambda x: x in a, b))) # ME RETORNA OS VALORES COMUNS ENTRE AS DUAS LISTAS.
