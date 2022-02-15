@@ -1,8 +1,10 @@
 # Olá, eu sou Carlos-Roberto
 
-Ultimamente tenho reforçado meus conhecimentos e me aprimorando em Lógica de Programação, Python, Java e metodologia ágil, assuntos que me fazem querer estar em constante aprendizado.
+Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden.
 
-Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
+Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares. 
+
+Ultimamente tenho reforçado meus conhecimentos em HTML, CSS e JavaScript, e também me aprimorando em Lógica de Programação, Python, Java e metodologia ágil, assuntos que me fazem querer estar em constante aprendizado.
 
  ##
 
