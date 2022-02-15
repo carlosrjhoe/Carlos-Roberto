@@ -7,8 +7,11 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
  ##
 
  <div style="display: inline_block"><br>
+    <img align="center" alt="Carlos-HTML" height="30" width="40"src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Carlos-Java" height="30" width="40"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+    <img align="center" alt="Carlos-JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img align="center" alt="Carlos-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img align="center" alt="Carlos-scrum" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/sprint-iteration.png"/>
     <img align="center" alt="Carlos-git" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
  
