@@ -4,7 +4,7 @@ Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos re
 
 Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares. 
 
-Ultimamente tenho reforçado meus conhecimentos em HTML, CSS, JavaScript e BootStrap, e também me aprimorando em Lógica de Programação, Python, Django, TDD, Java e metodologia ágil, assuntos que me fazem querer estar em constante aprendizado.
+Ultimamente venho reforçando meus conhecimentos em Lógica de Programação, Python, Django, TDD, Selenium e metodologia ágil, assuntos que me fazem querer estar em constante aprendizado. Fora isso, tambem estou aprimorando meus conhecimentos sobre boas práticas de desenvolvimento de sites em HTML, CSS, JavaScript e BootStrap.
 
  ##
 
