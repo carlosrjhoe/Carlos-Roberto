@@ -4,7 +4,7 @@ Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos re
 
 Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares. 
 
-Ultimamente venho reforçando meus conhecimentos sobre boas práticas de lógica de Programação, Python, TDD, Selenium e metodologia ágil, assuntos que me fazem querer estar em constante aprendizado. Fora isso, tambem estou aprimorando meus conhecimentos sobre HTML, CSS e JavaScript
+Ultimamente venho reforçando meus conhecimentos em boas práticas de lógica de Programação com JavaScript, HTML e CSS, assuntos que me fazem querer estar em constante aprendizado. Fora isso, tambem estou aprimorando meus conhecimentos sobre Python, TDD, Selenium e metodologia ágil.
 
 Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
 
