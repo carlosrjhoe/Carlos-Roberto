@@ -11,9 +11,9 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
  ##
 
  <div style="display: inline_block"><br>
-    <img align="center" alt="Carlos-Python" height="30" width="40" src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-    <img align="center" alt="Carlos-selenium" height="30" src="https://img.icons8.com/office/16/000000/selenium-test-automation.png"/>
-    <img align="center" alt="Carlos-postgreSQL" height="30"src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+    <img align="center" alt="Carlos-JavaScript" height="40" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+    <img align="center" alt="Carlos-ReactJS" height="40" src="https://img.icons8.com/office/80/undefined/react.png"/>
+    <img align="center" alt="Carlos-NodeJS" height="40" src="https://img.icons8.com/color/48/undefined/nodejs.png"/>
     <img align="center" alt="Carlos-scrum" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/sprint-iteration.png"/>
     <img align="center" alt="Carlos-git" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>
  
