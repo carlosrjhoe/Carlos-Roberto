@@ -11,6 +11,8 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
  ##
 
  <div style="display: inline_block"><br>
+    <img align="center" alt="Carlos-HTML" height="40" src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+    <img align="center" alt="Carlos-CSS" height="40" src="https://img.icons8.com/color/96/000000/css3.png"/>
     <img align="center" alt="Carlos-JavaScript" height="40" src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
     <img align="center" alt="Carlos-ReactJS" height="40" src="https://img.icons8.com/office/80/undefined/react.png"/>
     <img align="center" alt="Carlos-NodeJS" height="40" src="https://img.icons8.com/color/48/undefined/nodejs.png"/>
