@@ -1,10 +1,10 @@
 # Olá, eu sou Carlos-Roberto
 
-Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden.
+Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden, onde já estou cursando o 4° período.
 
 Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares. 
 
-Ultimamente venho reforçando meus conhecimentos em boas práticas de lógica de Programação com JavaScript, HTML e CSS, assuntos que me fazem querer estar em constante aprendizado. Fora isso, tambem estou aprimorando meus conhecimentos sobre NodeJS, ReactJS e metodologia ágil.
+Ultimamente venho reforçando meus conhecimentos em boas práticas de lógica de Programação com Python e Selenium, assuntos que me fazem querer estar em constante aprendizado. Fora isso, tambem estou aprimorando meus conhecimentos sobre JavaScript, HTML e CSS e metodologia ágil.
 
 Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
 
