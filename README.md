@@ -11,7 +11,10 @@ Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
  ##
 
  <div style="display: inline_block"><br>
+    <img align="center" alt="Carlos-django" height="40" width="40" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-fresh-tal-revivo.png"/>
     <img align="center" alt="Carlos-python" height="40" width="40" src="https://img.icons8.com/color/100/000000/python--v1.png"/>
+    <img align="center" alt="Carlos-html" height="40" width="40" src="https://img.icons8.com/color/144/000000/html-5--v1.png"/>
+    <img align="center" alt="Carlos-selenium" height="40" width="40" src="https://img.icons8.com/fluency/96/000000/css3.png"/>
     <img align="center" alt="Carlos-selenium" height="40" width="40" src="https://img.icons8.com/officel/80/000000/selenium-test-automation.png"/>
     <img align="center" alt="Carlos-selenium" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/>
     <img align="center" alt="Carlos-scrum" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/sprint-iteration.png"/>
