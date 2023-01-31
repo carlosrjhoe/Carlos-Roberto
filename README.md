@@ -1,6 +1,6 @@
 # Olá, eu sou Carlos-Roberto
 
-Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden, onde já estou cursando o 4° período.
+Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden, onde já estou cursando o 5° período.
 
 Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares. 
 
