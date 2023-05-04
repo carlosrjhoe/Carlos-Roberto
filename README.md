@@ -1,12 +1,25 @@
 # Olá, eu sou Carlos-Roberto
 
-Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden, onde já estou cursando o 5° período.
+Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à
+Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente,
+minha graduação em Análise e Desenvolvimento de Sistemas na UniFBV Wyden, onde já estou
+cursando o 5° período.
 
-Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além de possuir facilidade em trabalhar em equipes multidisciplinares. 
+Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além
+de possuir facilidade em trabalhar em equipes multidisciplinares.
 
-Ultimamente venho reforçando meus conhecimentos em boas práticas de lógica de Programação com Python e Selenium, assuntos que me fazem querer estar em constante aprendizado. Fora isso, tambem estou aprimorando meus conhecimentos sobre JavaScript, HTML e CSS e metodologia ágil.
+Ultimamente venho reforçando meus conhecimentos em boas práticas de lógica de Programação
+com Python, Django, Selenium e testes, assuntos que me fazem querer estar em constante aprendizado. Fora isso,
+tambem estou aprimorando meus conhecimentos sobre JavaScript, HTML e CSS e metodologia ágil.
 
-Já me sinto seguro e capaz para buscar meu primeiro estágio em TI.
+No momento, estou em busca de uma oportunidade no mercado de TI, um estágio na área de
+Desenvolvimento, para que assim eu possa colocar em prática tudo aquilo que venho estudando ao
+longo desse tempo.
+
+Contatos:
+Tel: (81)9 9541-9951
+Email: carlosrjhoe@gmail.com
+Github: https://github.com/carlosrjhoe
 
  ##
 
