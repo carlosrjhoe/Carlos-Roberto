@@ -16,7 +16,6 @@ longo desse tempo.
 Contatos:
 Tel: (81)9 9541-9951
 Email: carlosrjhoe@gmail.com
-Github: https://github.com/carlosrjhoe
 
  ##
 
