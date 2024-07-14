@@ -1,17 +1,10 @@
 # Olá, eu sou Carlos-Roberto
 
-Fascinado pelo mundo de Tecnologia da Informação comecei a estudar assuntos relacionados à Desenvolvimento de Software e Engenharia de Testes antes mesmo de começar formalmente, hoje, graduado em Análise e Desenvolvimento de Sistemas na UniFBV Wyden.
+Com uma sólida experiência em liderança e operação de sistemas industriais, estou em transição de carreira para a área de Tecnologia da Informação (TI) para explorar minha paixão pelo desenvolvimento de software e qualidade de sistemas. Graduado em Análise e Desenvolvimento de Sistemas pela UniFBV Wyden e atualmente cursando a Pós-Graduação em Testes Ágeis na CESAR School, estou adquirindo habilidades em metodologias ágeis e práticas de teste para impulsionar minha trajetória profissional.
 
-Me considero uma pessoa autodidata, proativa, responsável, pontual e extremamente focada. Além
-de possuir facilidade em trabalhar em equipes multidisciplinares.
+Dedicado, proativo e disciplinado, sou um profundo entusiasta da aprendizagem autodirigida e contínua. Comunicativo e adaptável em diversos ambientes, possuo experiência em liderança e execução de atividades, controle de qualidade e operação de sistemas. Estou buscando oportunidades desafiadoras como Analista de Testes, QA ou Engenheiro de Testes de Software, onde posso aplicar minha experiência prática e conhecimento técnico para contribuir efetivamente para o sucesso de projetos de TI.
 
-Ultimamente venho reforçando meus conhecimentos em boas práticas de lógica de Programação
-com Python, Django e Selenium, assuntos que me fazem querer estar em constante aprendizado. Fora isso,
-tambem estou aprimorando meus conhecimentos sobre JavaScript, HTML e CSS e metodologia ágil.
-
-No momento, estou em busca de uma oportunidade no mercado de TI, um estágio na área de
-Desenvolvimento, para que assim eu possa colocar em prática tudo aquilo que venho estudando ao
-longo desse tempo.
+Estou entusiasmado para embarcar nesta nova fase da minha carreira e estou aberto a oportunidades que me permitam crescer profissionalmente e agregar valor à equipe.
 
 Contatos:
 Tel: (81)9 9541-9951
